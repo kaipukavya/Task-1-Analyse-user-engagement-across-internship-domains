@@ -1,0 +1,21 @@
+Student_ID,Department,Internship_Domain,Applied,Participated
+1,CSE,AI,1,1
+2,ECE,Web Dev,1,1
+3,CSE,AI,1,1
+4,EEE,IoT,1,0
+5,MECH,CAD,1,1
+6,CSE,ML,1,1
+7,CIVIL,Structural,1,1
+8,ECE,Web Dev,1,0
+9,EEE,IoT,1,1
+10,CSE,AI,1,1
+11,MECH,CAD,1,0
+12,CIVIL,Structural,1,1
+13,CSE,ML,1,1
+14,ECE,Web Dev,1,1
+15,EEE,IoT,1,0
+16,MECH,CAD,1,1
+17,CSE,AI,1,1
+18,CIVIL,Structural,1,1
+19,ECE,Web Dev,1,1
+20,EEE,IoT,1,0
